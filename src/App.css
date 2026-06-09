@@ -744,10 +744,9 @@ pre {
 }
 
 .mini-chat-root {
-  position: fixed !important;
-  left: 28px !important;
-  right: auto !important;
-  bottom: 28px !important;
+  position: fixed;
+  right: 28px;
+  bottom: 28px;
   z-index: 9999;
 }
 
@@ -909,8 +908,7 @@ pre {
   }
 
   .mini-chat-root {
-    left: 16px !important;
-    right: auto !important;
-    bottom: 16px !important;
+    right: 16px;
+    bottom: 16px;
   }
 }
